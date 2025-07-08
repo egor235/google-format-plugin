@@ -1,0 +1,17 @@
+.idea/
+*.ims
+*.iml
+**/.gradle
+
+.classpath
+.project
+.factorypath
+.settings/
+.apt_generated/
+
+target/
+
+bin/
+out/
+idea_plugin/build
+eclipse_plugin/lib/
